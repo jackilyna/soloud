@@ -21,7 +21,6 @@ freely, subject to the following restrictions:
    3. This notice may not be removed or altered from any source
    distribution.
 */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdarg.h>
@@ -31,7 +30,6 @@ freely, subject to the following restrictions:
 #define VERSION "SoLoud C-Api Code Generator (c)2013-2020 Jari Komppa http://iki.fi/sol/"
 
 //#define PRINT_FUNCTIONS
-
 #define OUTDIR "../src/c_api/"
 #define PYOUTDIR "../scripts/"
 
